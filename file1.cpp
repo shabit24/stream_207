@@ -10,6 +10,7 @@ int main() {
 	outfile.open("namafile.txt");
 	cout << ">= Menulis file, \'q\' untuk kelur" << endl;
 
+
 	while (true) {
 		cout << "- ";
 		getline(cin, baris);
